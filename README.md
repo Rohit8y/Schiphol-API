@@ -75,6 +75,8 @@ You need to register for an account at the [Schiphol Developer Center](https://d
 
 Use these credentials when initializing the `SchipholAPI` client.
 
+---
+
 ## ✨ Future Improvements
 
 - Retry mechanism for API failures
@@ -83,5 +85,6 @@ Use these credentials when initializing the `SchipholAPI` client.
 
 ---
 
-Made with ❤️ for developers using Schiphol's open data.
-```
+Made with ❤️ for developers using Schiphol's open data
+
+---
