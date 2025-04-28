@@ -19,7 +19,7 @@ pip install schiphol-api
 ## 🚀 Quick Start
 
 ```python
-from schiphol_api import SchipholAPI
+from schipholapi import SchipholAPI
 
 # Initialize the API client with your app_id and app_key
 api = SchipholAPI(app_id="your_app_id", app_key="your_app_key")
