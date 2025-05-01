@@ -1,4 +1,4 @@
-# Schiphol-API
+# Schiphol-API [![PyPI Downloads](https://static.pepy.tech/badge/schiphol-api)](https://pepy.tech/projects/schiphol-api)
 
 A simple and lightweight Python client for interacting with the [Schiphol Airport Public Flights API](https://developer.schiphol.nl/).
 
@@ -6,14 +6,13 @@ This package allows you to easily fetch flight, destination, airline, and aircra
 
 ---
 
-## 📦 Installation
+## 📦 Installation 
 
 Install the package via pip:
 
 ```bash
 pip install schiphol-api
 ```
-
 ---
 
 ## 🚀 Quick Start
